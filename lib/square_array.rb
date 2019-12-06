@@ -11,7 +11,5 @@ def square_array(array)
 #return result
 arr = []
   array.each { |i| arr << i ** 2 }
- p arr
+ arr
 end
-
-square_array ([1,2,3])
