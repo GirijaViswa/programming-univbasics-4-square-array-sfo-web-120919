@@ -7,9 +7,5 @@ def square_array(array)
   result << pro
   i += 1
 end
-#p result
 return result
-#arr = []
- # array.each { |i| arr << i ** 2 }
- #arr
 end
