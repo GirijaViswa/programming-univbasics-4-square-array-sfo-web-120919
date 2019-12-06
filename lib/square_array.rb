@@ -6,5 +6,8 @@ def square_array(array)
   result << array[i] ** 2
   i += 1
 end
+p result
 return result
 end
+
+square_array ([1,2,3])
